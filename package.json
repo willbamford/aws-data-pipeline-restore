@@ -1,0 +1,12 @@
+{
+  "name": "aws-data-pipeline-restore",
+  "version": "1.0.0",
+  "description": "AWS Data Pipeline Restore",
+  "main": "index.js",
+  "repository": "git@github.com:WebSeed/aws-data-pipeline-restore.git",
+  "author": "Will Bamford <w.bamford@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.104.0"
+  }
+}
