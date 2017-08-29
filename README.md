@@ -4,7 +4,9 @@ Takes data in the format currently output by [AWS Data Pipeline DynamoDB export]
 
 ## Usage
 
+```bash
 AWS_REGION=eu-west-1 FILE=./export-file.json TABLE=MyTableName node index.js
+```
 
 ## Why?
 
